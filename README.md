@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm rdx</h1>
 
-### 💻 Stack I know
+### 💻 I know
 
 <div align="center">
 <!-- Programming Languages -->
