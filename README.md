@@ -1,3 +1,12 @@
+<style>
+	.centered {
+    display: flex;
+    align-items: center;
+	}
+  .padding16 {
+    padding: 0 16px;
+  }
+</style>
 <h1 align="center">Hi 👋, I'm rdx</h1>
 
 ### 💻 I know
@@ -56,6 +65,19 @@
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="25">
+</div>
+
+<br>
+
+### ✨ Socials
+
+<br>
+
+<div class="centered">
+<img class="padding16" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" height="25">
+<a href="https://www.codewars.com/users/rd-xx">
+  <img src="https://www.codewars.com/users/rd-xx/badges/large" alt="Codewars">
+</a>
 </div>
 
 <br>
