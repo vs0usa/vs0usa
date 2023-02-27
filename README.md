@@ -64,7 +64,7 @@
 ### ⭐ Statistics and Languages
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rd-xx&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rd-xx&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rd-xx&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rd-xx&layout=compact&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rd-xx&layout=compact&theme=tokyonight" />
 </div>
