@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm rdx</h1>
-
 ## 💫 About Me:
 🔭 I’m currently working on Skolar, the school portal of the future<br>
 👯 I’m looking to collaborate on open-source projects<br>
