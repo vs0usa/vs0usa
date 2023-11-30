@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on Skolar, the school portal of the future<br>
+🔭 I’m currently working on Taiyō, the newest portuguese manga-reading website<br>
 👯 I’m looking to collaborate on open-source projects<br>
 🌱 I’m currently learning Rust
 
