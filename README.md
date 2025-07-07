@@ -11,7 +11,7 @@ Hi, I'm Vitor (not "Victor" !), a fullstack web developer.
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rd-xx&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=rd-xx&theme=tokyonight" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rd-xx&layout=compact&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=vs0usa&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=vs0usa&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs0usa&layout=compact&theme=tokyonight" />
 </div>
